@@ -7,7 +7,9 @@
 			"files": [
 				"D:/Unreal/StoryGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal/StoryGame/Content/Level/StoryTutMap.umap",
-				"D:/Unreal/StoryGame/Content/Charakter/BP_FPS_CHARAKTER_Story.uasset"
+				"D:/Unreal/StoryGame/Content/Charakter/BP_FPS_CHARAKTER_Story.uasset",
+				"D:/Unreal/StoryGame/Content/Material/MovingPlatform.uasset",
+				"D:/Unreal/StoryGame/Content/Prefab/BP_MovingPlatform.uasset"
 			]
 		}
 	]
